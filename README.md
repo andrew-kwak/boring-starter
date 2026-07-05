@@ -1,10 +1,12 @@
 # The Boring Starter
 
-<img src="cover.jpg" alt="The Boring AI Engineer — book cover" width="280" align="right"/>
+<img src="cover.jpg" alt="The Boring AI Engineer — book cover" width="280" align="right" border="1"/>
 
 Companion code for **_The Boring AI Engineer — Why Boring Technology Wins When AI Writes the Code_** by Andrew Kwak.
 
 This is not a gem, not a framework, not a generator. It's the handful of files the book argues every AI-powered Rails app needs — small enough to read top to bottom, meant to be copied into your app and adapted. That's the philosophy: when you can read the code, you can check the agent's work.
+
+<br clear="right" />
 
 ## The files
 
